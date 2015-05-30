@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">BruParking</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="GPSAlertDialogTitle">Locatie niet beschikbaar</string>
+    <string name="GPSAlertDialogMessage">Ik kan niet uw huidige locatie vinden. Schakel GPS en locatie diensten in de instellingen, AUB</string>
+    <string name="settings">Naar instellingen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="dialog_current_zone">U bent momenteel in %1$s zone</string>
+    <string name="ok">OK</string>
+    <string name="pref_language">Taal</string>
+    <string name="pref_language_dialog_title">Selecteer uw taal</string>
+    <string name="pref_language_default">English</string>
+    <string name="action_refresh">Vernieuwen</string>
+    <string name="action_help">Hulp</string>
+	<string name="zone_red">ROOD</string>
+	<string name="zone_blue">BLAUW</string>
+	<string name="zone_orange">ORANJE</string>
+    <string name="title_activity_help">Hulp</string>
+    <string name="help_text">Hier is hulp in het Nederlands</string>
+    
+</resources>

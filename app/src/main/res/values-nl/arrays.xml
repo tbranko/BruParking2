@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="pref_language_entries">
+        <item>English</item>
+        <item>Dutch</item>
+        <item>French</item>
+    </array>
+    <array name="pref_language_values">
+        <item>English</item>
+        <item>Dutch</item>
+        <item>French</item>
+    </array></resources>
